@@ -1,0 +1,6 @@
+*.pyc
+waserver/__pycache__
+whatsapp_server.egg-info
+dist
+build
+waserver/config-prod.py
